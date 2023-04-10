@@ -1,0 +1,22 @@
+{
+  "name": "@gulinga/npm_test1",
+  "version": "1.0.0",
+  "description": "add function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guLinga/npmTest.git"
+  },
+  "author": "Gulinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guLinga/npmTest/issues"
+  },
+  "homepage": "https://github.com/guLinga/npmTest#readme",
+  "dependencies": {
+    "@gulinga/npm_test": "^1.0.0"
+  }
+}
